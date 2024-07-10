@@ -1,4 +1,7 @@
 <body>
+    <div id="my links">
+        <input type="text" value="Hello, World!">
+    </div>
     <div id="profile">
         <h1>👋 Hi, I'm Enayanneri!</h1>
         <p>🔗 A dedicated validator for popular networks like <strong>Side Protocol</strong>, <strong>Nodes Guru</strong>, <strong>0g_labs</strong> and more.</p>
