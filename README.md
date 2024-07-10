@@ -3,7 +3,7 @@
         <h1>My links</h1>
         <div style="display: flex; flex-direction: row;">
             <a href="https://x.com/Enayanneri"><strong>My Twitter</strong></a>
-            <a href="https://x.com/Enayanneri"><strong>My Twitter</strong></a>
+            <a href="https://discord.com/users/846595901370925096"><strong>My Discord Profile</strong></a>
         </div>
     </div>
     <div id="profile">
