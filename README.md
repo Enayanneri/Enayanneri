@@ -1,7 +1,10 @@
 <body>
     <div id="my links">
         <h1>My links</h1>
-        <a href="https://x.com/Enayanneri"><strong>My Twitter</strong></a>
+        <div style="display: flex; flex-direction: row;">
+            <a href="https://x.com/Enayanneri"><strong>My Twitter</strong></a>
+            <a href="https://x.com/Enayanneri"><strong>My Twitter</strong></a>
+        </div>
     </div>
     <div id="profile">
         <h1>👋 Hi, I'm Enayanneri!</h1>
