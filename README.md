@@ -1,6 +1,5 @@
 <body>
     <div id="my links">
-        <input type="text" value="Hello, World!" disabled>
         <h1>My links</h1>
         <>
     </div>
@@ -12,3 +11,5 @@
         <p>🌐 Let's connect and innovate in the world of decentralized finance together!</p>
     </div>
 </body>
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
