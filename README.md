@@ -1,6 +1,6 @@
 <body>
     <div id="my links">
-        <input type="text" value="Hello, World!">
+        <input type="text" value="Hello, World!" disabled>
         <h1>My links</h1>
         <>
     </div>
