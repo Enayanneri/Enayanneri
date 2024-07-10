@@ -1,9 +1,10 @@
 <body>
     <div id="my links">
-        <h1>My links</h1>
+        <h1>My links <div class="tenor-gif-embed" data-postid="10699268038699116036" data-share-method="host" data-aspect-ratio="1.3806" data-width="100%"><a href="https://tenor.com/view/bear-blowakiss-love-hearts-kissing-gif-10699268038699116036">Bear Blowakiss GIF</a>from <a href="https://tenor.com/search/bear-gifs">Bear GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></h1>
         <div style="display: flex; flex-direction: row;">
             <a href="https://x.com/Enayanneri"><strong>My Twitter</strong></a>
             <a href="https://discord.com/users/846595901370925096"><strong>My Discord Profile</strong></a>
+            <a href="mailto:naomiserenity6@gmail.com"><strong>My Email</strong></a>
         </div>
     </div>
     <div id="profile">
